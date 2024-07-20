@@ -1,0 +1,40 @@
+      Area Formulas:
+
+     Rectangle: Area
+Area
+=
+length
+×
+width
+Area=length×width
+Square: 
+Area
+=
+side
+2
+Area=side 
+2
+ 
+Triangle: 
+Area
+=
+1
+2
+×
+base
+×
+height
+Area= 
+2
+1
+​
+ ×base×height
+Circle: 
+Area
+=
+𝜋
+×
+radius
+2
+Area=π×radius 
+2
