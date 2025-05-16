@@ -28,6 +28,16 @@
     width: 100%;
     height: 70px;
     background-color: rgb(201, 11, 11);
+    padding-inline: 10px;
+
+}
+.icon{
+    width: 50%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-inline: 10px;
 
 }
 
@@ -79,7 +89,7 @@
     height: auto;
     display: flex;
     padding-top: 30px;
-    padding-left: 150px;
+    padding-left: 100px;
     
 
 
@@ -197,7 +207,7 @@
         height: auto;
         display: flex;
         padding-top: 30px;
-        padding-left: 150px;
+        padding-left: 100px;
         
     
     
@@ -294,7 +304,7 @@
         height: auto;
         display: flex;
         padding-top: 50px;
-        padding-left: 150px;
+        padding-left: 100px;
         
     }
     .trand img{
@@ -418,8 +428,8 @@
         display: flex;
         align-items: center;
         justify-content: space-evenly;
-        /* padding-inline: 50px; */
-        padding-block: 40px;
+        padding-inline: 50px;
+        padding-block: 20px;
         flex-wrap: wrap;
     
     }
@@ -461,7 +471,7 @@
         margin-left: 10px;
     }
 .card1 h1{
-    font-size: 15px;
+    font-size: 12px;
     display: flex;
     align-items: start;
     justify-content: start;
@@ -761,11 +771,13 @@ color: rgba(66, 61, 61, 0.885);
     background-color: rgb(226, 226, 226);
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
+    padding-inline: 10px;
 }
 
 .footer2 a{
     padding-inline: 20px;
+    line-height: 50px;
 }
 
 .footer3{
@@ -903,6 +915,14 @@ color: rgba(66, 61, 61, 0.885);
             margin-left: 20px;
             margin-top: 5px; 
 
+        }
+        .icon{
+            width: 100%;
+            height: 70px;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+            padding-inline: 10px;
         }
         #logo{
             margin-right: 20px;
