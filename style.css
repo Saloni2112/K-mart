@@ -1036,6 +1036,9 @@ color: rgba(66, 61, 61, 0.885);
         height: auto;
         padding: 20px;
        }
+       .footer2 a{
+        padding-inline: 2px;
+       }
 
        .footer3{
         width: 100%;
@@ -1054,6 +1057,10 @@ color: rgba(66, 61, 61, 0.885);
        .footer-last2{
         margin-left: 20px;
         margin-top: 20px;
+      
+       }
+       .footer-last2 h1{
+        font-size: 18px;
        }
 
     }
